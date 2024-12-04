@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/RomanConverter
+/RomanConverter/bin
+/RomanConverter/obj
+/RomanConverter/Properties/PublishProfiles/FolderProfile.pubxml
+/RomanConverter/Properties/PublishProfiles/FolderProfile.pubxml.user
+/RomanConverter/RomanConverter.fsproj.user
+/RomanConverter.Tests/bin
+/RomanConverter.Tests/obj
